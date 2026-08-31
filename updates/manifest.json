@@ -1,7 +1,7 @@
 {
-  "version": 65,
+  "version": 66,
   "encrypted": true,
   "payload": "updates/payload.mgenc",
   "payloadUrl": "https://media.githubusercontent.com/media/vanabruzas-stack/mgburmalda/main/updates/payload.mgenc",
-  "notes": "UI: mapper notifications layout, cleaner settings"
+  "notes": "Fix: skip redundant GitHub UI download after fresh setup"
 }
