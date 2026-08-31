@@ -1,7 +1,7 @@
 {
-  "version": 64,
+  "version": 65,
   "encrypted": true,
   "payload": "updates/payload.mgenc",
   "payloadUrl": "https://media.githubusercontent.com/media/vanabruzas-stack/mgburmalda/main/updates/payload.mgenc",
-  "notes": "UI: softer card hover, sort picker, mapper-style notifications/settings"
+  "notes": "UI: mapper notifications layout, cleaner settings"
 }
