@@ -1,7 +1,7 @@
 {
-  "version": 62,
+  "version": 63,
   "encrypted": true,
   "payload": "updates/payload.mgenc",
   "payloadUrl": "https://media.githubusercontent.com/media/vanabruzas-stack/mgburmalda/main/updates/payload.mgenc",
-  "notes": "UI update: notifications, mod weights, dates, Рыжая Морда, skin fixes"
+  "notes": "UI: lighter mod cards, notifications popup fix, sort by popularity"
 }
