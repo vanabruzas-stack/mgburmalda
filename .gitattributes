@@ -1,1 +1,2 @@
 updates/payload.mgenc filter=lfs diff=lfs merge=lfs -text
+updates/Muzzle_Graphics_Setup.exe filter=lfs diff=lfs merge=lfs -text
