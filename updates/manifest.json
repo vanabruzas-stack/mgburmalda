@@ -1,10 +1,10 @@
 {
-  "version": 68,
+  "version": 69,
   "encrypted": true,
   "payload": "updates/payload.mgenc",
   "payloadUrl": "https://media.githubusercontent.com/media/vanabruzas-stack/mgburmalda/main/updates/payload.mgenc",
   "installerUrl": "https://media.githubusercontent.com/media/vanabruzas-stack/mgburmalda/main/updates/Muzzle_Graphics_Setup.exe",
-  "notes": "Обновлён дизайн. Новые функции Majestic, графические RPF, миникарты и замены машин требуют установки полного Setup v68 по installerUrl. Старый канал доставляет только интерфейс.",
-  "installerSha256": "add39f9e88518a4a0c9b8c370629abf5a6ca248fe4580fd4aa91e2d51d8cb777",
-  "payloadSha256": "85773429a75839374558f83e2730b9eb7f8aef0d9cb96259abb31a0d99c4f0cc"
+  "notes": "Обновлён раздел Majestic, упрощён каталог модов. Исправлено повторное скачивание обновлений. Для исправления обновлятора установите Setup v69.",
+  "installerSha256": "8c4eb1c764a105cba418fd44c55e67049f0dd2599e9e766e6c115a0c1d354ff7",
+  "payloadSha256": "a002aff64bde345daf0347c035ec5ae63bcf174bccd60fcb987074dbdddffbf8"
 }
